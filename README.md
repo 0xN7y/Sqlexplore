@@ -1,2 +1,3 @@
 # Sqlexplore
-Sql viewer 
+
+Random helpfull program i created  
