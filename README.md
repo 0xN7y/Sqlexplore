@@ -1,6 +1,6 @@
 # Sqlexplore
 
-Random helpfull program i created used to explore and edit mysql database 
+Helpfull program i created that used to explore and edit mysqldb; 
 
 
 ![Screenshot](login.png)
