@@ -1,6 +1,6 @@
 # Sqlexplore
 
-## Helpfull program i created that used to explore and edit mysqldb; 
+## Helpfull program used to explore and edit mysqldb; 
 
 
 ![Screenshot](login.png)
